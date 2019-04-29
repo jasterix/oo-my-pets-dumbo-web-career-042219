@@ -1,6 +1,6 @@
 class Owner
   # code goes here
-  COUNT = []
+  COUNT = 0
   ALL = []
   attr_reader :name
   attr_accessor :mood
